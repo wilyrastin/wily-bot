@@ -154,7 +154,7 @@ return {
   run = run
 }
 end
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright; @raminoa
+--Persian Translate; @raminoa
+--ch : @wilybot
 --کپی بدون ذکر منبع حرام است
