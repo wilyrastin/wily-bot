@@ -1,4 +1,4 @@
-# NOD32-BOT Is New And Best Bot.
+# wilybot Is New And Best Bot.
 
 ## Based On TeleSeed.
 _________________________________________________________________________________
@@ -12,7 +12,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/BH-YAGHI/NOD32-BOT.git
+git clone https://github.com/wilyrastin/wily-bot.git
 
 cd NOD32-BOT
 
@@ -46,9 +46,9 @@ ________________________________________________________________________________
 
 # HOW DO MAKE UPDATE THIS FILE?
 
-#see this git:  https://github.com/BH-YAGHI/tg.git
+#see this git:  https://github.com/wilyrastin/wily-bot
 
 ---------------------------------------------------------------------------------
 ### channel : https://telegram.me/Nod32team
 
-### developer : https://telegram.me/Behroozyaghi
+### developer : https://telegram.me/raminoa
