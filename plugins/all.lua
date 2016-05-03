@@ -154,7 +154,4 @@ return {
   run = run
 }
 end
---Copyright; @raminoa
---Persian Translate; @raminoa
---ch : @wilybot
---کپی بدون ذکر منبع حرام است
+
